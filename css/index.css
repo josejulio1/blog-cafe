@@ -1,0 +1,51 @@
+/** Main -> Left **/
+.main {
+    max-width: 130rem;
+    padding: 0 3.5rem;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 4rem;
+}
+
+@media (max-width: 768px) {
+    .main {
+        grid-template-columns: 1fr;
+    }
+}
+
+.main__article {
+    border-bottom: 1px solid var(--gris);
+    margin-bottom: 1rem;
+}
+
+.main__article:last-of-type {
+    border: none;
+}
+
+/** Main -> Right **/
+.main__right__section {
+    font-size: 2rem;
+    font-family: var(--fuente-heading);
+}
+
+.main__right__section p {
+    font-weight: bold;
+}
+
+.main__right__section span {
+    font-weight: normal;
+}
+
+.button--courses {
+    background-color: var(--primario);
+    text-align: center;
+}
+
+/** Utils **/
+@media (max-width: 768px) {
+    .button {
+        display: block;
+        text-align: center;
+    }
+}

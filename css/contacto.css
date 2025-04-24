@@ -1,0 +1,45 @@
+.main h3 {
+    text-align: center;
+}
+
+.main__contact {
+    max-width: 130rem;
+    padding: 0 4rem;
+    margin: auto;
+}
+
+.main__image {
+    background-image: url('../img/contacto.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40rem;
+}
+
+.main__form {
+    background-color: var(--blanco);
+    padding: 5rem 3rem;
+    margin: auto;
+    margin-top: -5rem;
+    width: 95%;
+}
+
+.field {
+    display: flex;
+    margin-bottom: 2rem;
+    text-align: right;
+    column-gap: 2rem;
+}
+
+.field__label {
+    flex: 0 0 9rem;
+}
+
+.field__input {
+    flex: 1;
+    padding: 1rem .5rem;
+    border: 1px solid var(--gris);
+}
+
+.field__input--textarea {
+    height: 20rem;
+}

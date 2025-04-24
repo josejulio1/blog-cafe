@@ -1,0 +1,23 @@
+.main {
+    margin-bottom: 5rem;
+}
+
+.main h3 {
+    text-align: center;
+}
+
+.main__us {
+    max-width: 130rem;
+    padding: 0 4rem;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    column-gap: 2rem;
+}
+
+@media (max-width: 768px) {
+    .main__us {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,13 @@
+.main {
+    margin-bottom: 5rem;
+}
+
+.main h3 {
+    text-align: center;
+}
+
+.main__us {
+    max-width: 130rem;
+    padding: 0 4rem;
+    margin: auto;    
+}
