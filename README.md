@@ -5,7 +5,7 @@
 
 ## 📌 Descripción
 
-Blog sobre cafés, con cursos y talleres. Es una web estática, enfocada a mejorar conocimientos en **diseño**, **maquetación** y **responsive**.
+Blog sobre cafés, con cursos y talleres. Es una web estática, enfocada a mejorar conocimientos en **diseño**, **maquetación** y **responsive**
 
 ---
 
