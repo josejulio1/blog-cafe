@@ -11,14 +11,14 @@ Blog sobre cafés, con cursos y talleres. Es una web estática, enfocada a mejor
 
 ## 🛠️ Tecnologías utilizadas
 
-- **HTML5** – estructura semántica
-- **CSS3** – layout con Flexbox y Grid, responsive design
+- **HTML5** - estructura semántica
+- **CSS3** - layout con Flexbox y Grid, responsive design
 
 ---
 
 ## 🔁 Conocimientos reforzados
-- Estructura semántica con HTML5.
-- Maquetación responsiva con Flexbox y Grid.
+- Estructura semántica con HTML5
+- Maquetación responsiva con Flexbox y Grid
 
 ---
 
